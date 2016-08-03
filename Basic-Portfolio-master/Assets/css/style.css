@@ -1,0 +1,28 @@
+body {
+	background-image: url(stardust.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background: #efeee7;
+	font-size: 18px;
+	line-height: 150%;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	color: #333333;
+}
+header {
+	background: #ffffff;
+}
+h1 {
+	background: #ffffff;
+	color: #4aaaa5;
+	font-size: 28px;
+}
+h2 {
+	background: #ffffff;
+	font-size: 24px;
+	color:#4aaaa5;
+	text-align: right;
+}
